@@ -6,7 +6,7 @@ import (
 	"github.com/drone/drone-go/drone"
 	"github.com/urfave/cli"
 
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/grafana/drone-cli/drone/internal"
 )
 
 var userAddCmd = cli.Command{

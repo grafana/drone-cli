@@ -7,7 +7,7 @@ import (
 	"github.com/pkg/browser"
 	"github.com/urfave/cli"
 
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/grafana/drone-cli/drone/internal"
 )
 
 //

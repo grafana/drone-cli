@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/grafana/drone-cli/drone/internal"
 	"github.com/drone/drone-go/drone"
 
 	"github.com/urfave/cli"

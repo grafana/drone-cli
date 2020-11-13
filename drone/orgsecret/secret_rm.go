@@ -3,7 +3,7 @@ package orgsecret
 import (
 	"github.com/urfave/cli"
 
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/grafana/drone-cli/drone/internal"
 )
 
 var secretDeleteCmd = cli.Command{

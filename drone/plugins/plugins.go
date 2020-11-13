@@ -1,11 +1,11 @@
 package plugins
 
 import (
-	"github.com/drone/drone-cli/drone/plugins/admit"
-	"github.com/drone/drone-cli/drone/plugins/config"
-	"github.com/drone/drone-cli/drone/plugins/convert"
-	"github.com/drone/drone-cli/drone/plugins/registry"
-	"github.com/drone/drone-cli/drone/plugins/secret"
+	"github.com/grafana/drone-cli/drone/plugins/admit"
+	"github.com/grafana/drone-cli/drone/plugins/config"
+	"github.com/grafana/drone-cli/drone/plugins/convert"
+	"github.com/grafana/drone-cli/drone/plugins/registry"
+	"github.com/grafana/drone-cli/drone/plugins/secret"
 
 	"github.com/urfave/cli"
 )

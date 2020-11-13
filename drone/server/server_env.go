@@ -9,7 +9,7 @@ import (
 	"path"
 	"text/template"
 
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/grafana/drone-cli/drone/internal"
 	"github.com/drone/drone-go/drone"
 	"github.com/drone/funcmap"
 	"github.com/urfave/cli"

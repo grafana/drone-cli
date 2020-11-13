@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/grafana/drone-cli/drone/internal"
 	"github.com/drone/drone-yaml/yaml/signer"
 	"github.com/urfave/cli"
 )
